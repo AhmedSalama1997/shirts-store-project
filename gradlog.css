@@ -1,0 +1,43 @@
+.login-container  {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.login-box h1 {
+    color: #F61B5A;
+}
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+}
+.login-form input {
+    width: 100%;
+    border-color: transparent transparent red transparent ;
+    
+}
+.login-form input:focus{
+    outline: none;
+}
+.login-form div .check {
+    width: 10%;
+
+} 
+.footer {
+    text-align: center;
+    background-color: white;
+    padding: 27px 0;
+    border: white;
+    border-radius: 50px;
+    margin: auto;
+    padding-top: 50px;
+
+
+}
+.footer a {
+    font-size: 20px;
+    color: #F61B5A;
+    text-decoration: none;
+
+}

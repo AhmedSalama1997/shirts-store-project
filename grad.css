@@ -1,0 +1,41 @@
+
+.head-box {
+    display: flex;
+    background-color: #FE8A00;
+
+}
+
+
+.head-box .offer-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+.head-box .offer-box .main-logos {
+    width: 120%;
+}
+
+
+.head-box .offer-box .offer {
+    position: absolute;
+    color: white;
+    font-weight: 500;
+    font-size: 40px;
+
+    
+
+}
+/* mainpage end */
+
+
+/* Products begin */
+
+
+
+
+ 
+
